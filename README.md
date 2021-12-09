@@ -1,4 +1,4 @@
-# Projeto de Conclusão de Curso - Economia
+# Projeto de Conclusão de Curso - Economia  💰 
 O projeto visou aplicar os conceitos vistos durante o curso de engenharia de dados da SoulCode para tratar, organizar e modelar os dados de no mínimo 2 datasets escolhidos de acordo com o tema economia.
 ## Motivo dos datasets
 
